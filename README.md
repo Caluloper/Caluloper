@@ -1,16 +1,44 @@
-## Hi there 👋
+# Mi sitio personal
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
+proyectos y mis intereses.
+## Contenido
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
+* [Tecnologías Utilizadas](#tecnologías-utilizadas)
 
-<!--
-**Caluloper/Caluloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Información personal
+* Nombre: Carlos Luis López Pérez
+* Ocupación: Estudiante
+* Lugar de residencia: Ecuador
+* Sitio web: [Tu sitio web]
 
-Here are some ideas to get you started:
+## Proyectos
+### [Nombre del Proyecto 1](enlace-al-repositorio-del-proyecto-1)
+- **Descripción**: Breve descripción del proyecto, su propósito y funcionalidades.
+- **Tecnologías**: [Tecnologías que usaste en el proyecto]
+- **Estado**: [Estado del proyecto (En desarrollo, Terminado, etc.)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Nombre del Proyecto 2](enlace-al-repositorio-del-proyecto-2)
+- **Descripción**: Breve descripción del proyecto, su propósito y funcionalidades.
+- **Tecnologías**: [Tecnologías que usaste en el proyecto]
+- **Estado**: [Estado del proyecto (En desarrollo, Terminado, etc.)]
+
+### [Nombre del Proyecto 3](enlace-al-repositorio-del-proyecto-3)
+- **Descripción**: Breve descripción del proyecto, su propósito y funcionalidades.
+- **Tecnologías**: [Tecnologías que usaste en el proyecto]
+- **Estado**: [Estado del proyecto (En desarrollo, Terminado, etc.)]
+
+## Tecnologías Utilizadas
+Aquí están las principales tecnologías que utilizo en mis proyectos:
+
+- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
+- **Backend**: Node.js, Express, Django, Flask
+- **Bases de Datos**: MongoDB, MySQL
+- **DevOps**: Docker, Kubernetes, AWS
+
+## Intereses
+* Desarrollo Web 💻
+* Programación competitiva 🏆
+* Ping-Pong 🏓
+* Videojuegos 🎮
