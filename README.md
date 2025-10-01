@@ -32,10 +32,9 @@ proyectos y mis intereses.
 ## Tecnologías Utilizadas
 Aquí están las principales tecnologías que utilizo en mis proyectos:
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
-- **Backend**: Node.js, Express, Django, Flask
+- **Frontend**: HTML, CSS, JavaScript, React.
+- **Backend**: JavaScript, Python, Java.
 - **Bases de Datos**: MongoDB, MySQL
-- **DevOps**: Docker, Kubernetes, AWS
 
 ## Intereses
 * Desarrollo Web 💻
