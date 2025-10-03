@@ -1,4 +1,4 @@
-# Mi sitio personal
+# Bunas, soy Carlos López 👍
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
@@ -11,23 +11,23 @@ proyectos y mis intereses.
 * Nombre: Carlos Luis López Pérez
 * Ocupación: Estudiante
 * Lugar de residencia: Ecuador
-* Sitio web: [Tu sitio web]
+* CV: https://Caluloper.github.io/curriculum
 
 ## Proyectos
-### [Nombre del Proyecto 1](enlace-al-repositorio-del-proyecto-1)
-- **Descripción**: Breve descripción del proyecto, su propósito y funcionalidades.
-- **Tecnologías**: [Tecnologías que usaste en el proyecto]
-- **Estado**: [Estado del proyecto (En desarrollo, Terminado, etc.)]
+### GeneradorHorarios (https://github.com/aszurita/GeneradorHorarios)
+- **Descripción**: Una página web cuya función es permitir a los estudiantes de la ESPOL construir sus horarios de clases antes de matricularse.
+- **Tecnologías**: React, HTML, CSS, JavaScript, Tailwind, Python.
+- **Estado**: En desarrollo.
 
-### [Nombre del Proyecto 2](enlace-al-repositorio-del-proyecto-2)
-- **Descripción**: Breve descripción del proyecto, su propósito y funcionalidades.
-- **Tecnologías**: [Tecnologías que usaste en el proyecto]
-- **Estado**: [Estado del proyecto (En desarrollo, Terminado, etc.)]
+### MEDCONTROL (https://github.com/Caluloper/MEDCONTROL)
+- **Descripción**: Una aplicación móvil que sirve como manejador de medicinas, citas médicas, médicos y otros aspectos relacionados con la salud.
+- **Tecnologías**: Java, Kotlin.
+- **Estado**: Finalizado.
 
-### [Nombre del Proyecto 3](enlace-al-repositorio-del-proyecto-3)
-- **Descripción**: Breve descripción del proyecto, su propósito y funcionalidades.
-- **Tecnologías**: [Tecnologías que usaste en el proyecto]
-- **Estado**: [Estado del proyecto (En desarrollo, Terminado, etc.)]
+### Circuito (https://github.com/Caluloper/Circuito)
+- **Descripción**: Una página web que permite calcular la corriente total, resistencia total y voltaje de un circuito preestablecido, dando valores a sus elementos.
+- **Tecnologías**: React, HTML, CSS, JavaScript.
+- **Estado**: Finalizado.
 
 ## Tecnologías Utilizadas
 Aquí están las principales tecnologías que utilizo en mis proyectos:
